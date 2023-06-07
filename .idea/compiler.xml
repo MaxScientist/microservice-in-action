@@ -9,5 +9,9 @@
         <module name="custom-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="custom-service" target="1.5" />
+      <module name="microservice-in-action" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
