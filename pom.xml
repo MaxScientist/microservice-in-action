@@ -10,6 +10,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>custom-service</module>
+    <module>oauth_srv</module>
+    <module>conf_svr</module>
   </modules>
 
   <name>microservice-in-action</name>
